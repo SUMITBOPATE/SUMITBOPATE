@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @SUMITBOPATE 
-an enthusiastic Electronic Engineer who has keen interset in Computer Science and Software development.
-- 👀 I’m interested in web development ,front-development and data structure and algorithms.
+- 👋 Hi, I’m @SUMITBOPATE an Electronic Engineer who is passionate about  Computer Science and Frontend development.
+- 👀 I have been working with programming languages like HTML, CSS, JavaScript,React and Java.
 
 - 🌱 I’m currently learning  web development ,front-development and data structure and algorithms.
-
+-   I love to learn about different technologies 
 - 💞️ I’m looking to collaborate on  various projects and also looking for oppurtunities as front end  developer...
 - 📫 You can reach me on --->
 - linkedin-- https://www.linkedin.com/in/sumit-bopate-79646b191/
