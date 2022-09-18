@@ -9,10 +9,10 @@ Hi there, I'm Sumit Bopate</a> 👋
 <h2 align="center">
 I'm a Frot-End Web Developer 💻  🎨!
 </h2> 
--<p> 👋 An Electronic Engineer who is passionate about  Computer Science and Frontend development.  .
-- 👀 I have been working with programming languages like HTML, CSS, JavaScript,React JS and Java.
+-<p> 👋 An Electronic Engineer who is passionate about  Computer Science and Frontend development.</p>  .
+- <p>👀 I have been working with programming languages like HTML, CSS, JavaScript,React JS and Java.
 - <p>
-       ✨ I love the entire process of developing websites.✨
+      <p> ✨ I love the entire process of developing websites.✨</P>
 - 🌱 I’m currently learning 
 -  web development 
 -  front-development and back-end development 
@@ -28,8 +28,9 @@ I'm a Frot-End Web Developer 💻  🎨!
 -  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)      ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 - </br>
+- <p>
 - 💞️ I’m looking to collaborate on  various projects and also looking for oppurtunities as front end  developer...
-- 
+- </p>
 - 📫 :writing_hand: Connect with me on  🤝 
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)sumitbopate888@gmail.com
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/sumit-bopate-79646b191/
