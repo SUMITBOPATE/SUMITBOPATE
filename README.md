@@ -1,3 +1,14 @@
+- <p align="center">
+ <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
+
+<h3 align="center">
+Hi there, I'm Sumit Bopate</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Frot-End Web Developer 💻  🎨!
+</h2> 
 - 👋 Hi, I’m @SUMITBOPATE an Electronic Engineer who is passionate about  Computer Science and Frontend development.
 -    I love the entire process of developing websites.
 - 👀 I have been working with programming languages like HTML, CSS, JavaScript,React JS and Java.
