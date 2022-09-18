@@ -1,7 +1,5 @@
-- <p align="center">
+<p align="center">
  
-</p>
-
 <h1 align="center">
 Hi there, I'm Sumit Bopate</a> 👋
 </h3>
@@ -13,20 +11,21 @@ I'm a Frot-End Web Developer 💻  🎨!
 - <p>👀 I have been working with programming languages like HTML, CSS, JavaScript,React JS and Java.
 - 
       <p> ✨ I love the entire process of developing websites.✨</P>
-- 🌱 I’m currently learning 
-- 
+- 🌱 I’m currently learning <>
 -  web development 
--  front-development and back-end development 
--  data structure and algorithms.
+- front-development and back-end development 
+- data structure and algorithms.
 - :brain:   Creating interesreting projects.
 -        I love to learn about different technologies 
--   
+-   <p>
 -    💼 TECHNICAL SKILLS <br>
--     <p> 
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+-     
+- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) 
+   ![HTML5] ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -  	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
--  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)      ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)    - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 - </br>
 - <p>
