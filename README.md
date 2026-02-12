@@ -5,7 +5,7 @@ Hi there, I'm Sumit Bopate</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Frot-End Web Developer 💻  🎨!
+I'm a Front-End Web Developer 💻  🎨!
 </h2>
 </p>
 - 👋 An Electronic Engineer who is passionate about  Computer Science and Frontend development.
