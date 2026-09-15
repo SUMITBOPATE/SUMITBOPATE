@@ -1,38 +1,41 @@
-<p align="center">
- 
-<h1 align="center">
-Hi there, I'm Sumit Bopate</a> 👋
-</h3>
+# Hi, I'm Sumit Bopate 
 
-<h2 align="center">
-I'm a Front-End Web Developer 💻  🎨!
-</h2>
-</p>
-- 👋 An Electronic Engineer who is passionate about  Computer Science and Frontend development.
--👀 I have been working with programming languages like HTML, CSS, JavaScript,React JS and Java.
-     <br> ✨ I love the entire process of developing websites.✨<p>
--🌱 I’m currently learning <p>
--✨ Web development <p>
--✨ Front-development and back-end development <p>
--✨ Data structure and algorithms.<p>
-- :brain:   Creating interesreting projects.<p>
--      I love to learn about different technologies <p>
-  </br>
-- ###   💼 TECHNICAL SKILLS <br>
-   JAVA  JAVASCRIPT REACT HTML CSS
+### Full-Stack Developer 
 
+I build responsive and user-focused web applications with **JavaScript, React, and modern web technologies**. I'm currently expanding into full-stack development with **Node.js, Express, and databases**.
 
-- 💞️ I’m looking to collaborate on  various projects and also looking for oppurtunities as front end  developer...
-- 📫 :writing_hand: Connect with me on  🤝 
+I enjoy turning ideas into working products, improving my JavaScript fundamentals, and learning through real-world projects.
 
+### 🛠️ Tech Stack
 
-[![SUMIT BOPATE stats](https://github-readme-stats.vercel.app/api?username=SUMITBOPATE&show_icons=true&theme=radical)](https://github.com/sumitbopate/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbopate&layout=compact)](https://github.com/sumitbopate/github-readme-stats)
+**Frontend**
 
-<!---
+* HTML
+* CSS
+* JavaScript
+* React.js
 
+**Backend**
 
-SUMITBOPATE/SUMITBOPATE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Node.js
+* Express.js
 
+**Database**
+
+* MongoDB
+* PostgreSQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+### 🚀 Featured Projects
+
+Check out my pinned repositories below for projects I've built while developing my frontend and full-stack skills.
+
+### 📫 Connect With Me
+
+* GitHub: [@SUMITBOPATE](https://github.com/SUMITBOPATE)
